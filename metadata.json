@@ -1,0 +1,6 @@
+{
+  "name": "PantryPal",
+  "description": "PantryPal - Smart recipe finder based on ingredients in your pantry with vegetarian and egg-friendly options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

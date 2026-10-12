@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --color-burnt-orange: #C65D32;
+  --color-warm-ivory: #F7F2E8;
+  --color-soft-black: #252525;
+}
+
+body {
+  background-color: #F7F2E8;
+  color: #252525;
+  min-height: 100vh;
+}
